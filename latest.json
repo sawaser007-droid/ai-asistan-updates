@@ -1,9 +1,9 @@
 {
-  "version": "5.5",
-  "released": "2026-10-07",
+  "version": "5.6",
+  "released": "2026-11-01",
   "critical": false,
   "notes": {
-    "tr": "AI Asistan 5.5 yayında.",
-    "en": "AI Asistan 5.5 is released."
+    "tr": "TEST DUYURUSU: yeni sürüm bildirimi nasıl görünüyor?",
+    "en": "TEST NOTICE: how a new-version notice looks."
   }
 }
